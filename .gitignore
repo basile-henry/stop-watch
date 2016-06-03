@@ -1,0 +1,7 @@
+*.cache
+*.hw
+*.runs
+*.sim
+*.o
+*.hi
+verilog/
